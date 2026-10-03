@@ -1,0 +1,5 @@
+EMERGENCY DEPARTMENT TRIAGE NOTE
+Patient: Patient A (synthetic)   DOB: 01/15/1961   Arrival: 03/03/2026 21:14
+Chief complaint: fever and dysuria x 2 days.
+Vital signs: Temp 38.9 C | HR 118 | RR 22 | BP 96/58 | SpO2 95% on room air.
+Acuity: ESI 2. Alert and oriented x3.

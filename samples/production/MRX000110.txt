@@ -1,0 +1,3 @@
+PAYER DENIAL LETTER (excerpt)
+Clinical validation review: the documentation does not support sepsis as defined by Sepsis-3.
+No organ dysfunction (SOFA increase of 2 or more) is documented. The claim is adjusted to the DRG for urinary tract infection.

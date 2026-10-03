@@ -1,0 +1,4 @@
+LABORATORY RESULTS  Collected 03/03/2026 22:05
+WBC 15.2 K/uL (H) | Hemoglobin 13.1 g/dL | Platelets 210 K/uL
+Lactate 2.4 mmol/L (H) | Creatinine 1.1 mg/dL | Total bilirubin 0.8 mg/dL
+Sodium 136 mEq/L | Potassium 4.0 mEq/L

@@ -1,0 +1,4 @@
+EMERGENCY DEPARTMENT PHYSICIAN NOTE  03/03/2026 21:40
+HPI: 65-year-old with 2 days of dysuria and fever. No confusion.
+Assessment: urinary tract infection, rule out sepsis.
+Plan: blood cultures x2, urine culture, ceftriaxone 1 g IV, lactated Ringer's 30 mL/kg bolus, admit to medicine.
